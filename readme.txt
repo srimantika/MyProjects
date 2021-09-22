@@ -1,0 +1,1 @@
+This is the test file for MyProjects Git challenge - create a new file and add something to that file.
